@@ -1,4 +1,4 @@
-# SpeechMate.DUB ML pipeline
+# SpeechMate ML pipeline
 
 ## Install Make
 
