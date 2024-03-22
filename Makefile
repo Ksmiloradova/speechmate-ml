@@ -1,4 +1,4 @@
-IMAGE_NAME=audioland-pipeline:dev
+IMAGE_NAME=speechmate-pipeline:dev
 
 mac/init:
 	brew install flyctl

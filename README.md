@@ -1,4 +1,4 @@
-# AudioLand.DUB ML pipeline
+# SpeechMate.DUB ML pipeline
 
 ## Install Make
 

@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for audioland on 2023-10-22T20:14:00+02:00
+# fly.toml app configuration file generated for speechmate on 2023-10-22T20:14:00+02:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "audioland"
+app = "speechmate"
 primary_region = "cdg"
 
 [build]
